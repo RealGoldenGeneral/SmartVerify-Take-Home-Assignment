@@ -9,6 +9,8 @@
    - seaborn
    - sklearn
    - keras
+   - plotly
+
 or use ```pip install -r requirements.txt```
 3. Run ```jupyter notebook notebooks``` to read both notebooks.
 
