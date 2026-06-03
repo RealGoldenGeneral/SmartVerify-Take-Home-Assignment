@@ -1,0 +1,15 @@
+# Jupyter notebook
+notebook
+
+# Data handling
+numpy
+pandas
+
+# Visualizations
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+sklearn
+keras
