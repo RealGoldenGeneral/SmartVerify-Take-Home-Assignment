@@ -11,5 +11,5 @@ seaborn
 plotly
 
 # Machine learning
-sklearn
-keras
+scikit-learn
+tf-keras
